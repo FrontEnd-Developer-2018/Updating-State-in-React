@@ -16,3 +16,6 @@ With plain React state, you can write it like this, without the spread operator:
 this.setState({
   updates here
 })
+
+TRES IMPORANT
+#https://daveceddia.com/react-redux-immutability-guide/#redux-update-an-object
