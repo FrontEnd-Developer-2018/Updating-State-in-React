@@ -18,4 +18,5 @@ this.setState({
 })
 
 TRES IMPORANT
+(This isn’t specific to Redux – the same method applies with plain React state. See here for how to adapt it.)
 #https://daveceddia.com/react-redux-immutability-guide/#redux-update-an-object
